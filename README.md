@@ -26,10 +26,10 @@ This is a self-paced curriculum for learning application security, focusing on p
   - **Suggested Task**: Earn the free "Essentials" badge and explore one paid exercise if budget allows.
 
 ### Secure Coding Focus
-- **OWASP Application Security Curriculum**  
-  - **Link**: [owasp.org/www-project-application-security-curriculum/](https://owasp.org/www-project-application-security-curriculum/)  
-  - **Description**: Free foundational course materials from OWASP, including slides and secure coding exercises via SecureFlag (OWASP member benefit). Starts with the OWASP Top 10 and introduces secure-by-design thinking.  
-  - **Suggested Task**: Review the ASC101 slides and try the SecureFlag exercises if accessible.
+- **OWASP Top 10**  
+  - **Link**: [https://owasp.org/Top10/](https://owasp.org/Top10/)  
+  - **Description**: OWASP TOP 10 introduces common vulnerabilities found in software
+  - **Suggested Task**: Review the vulnerabilities and understand how they present themself in applications
 
 - **OWASP Juice Shop**  
   - **Link**: [owasp.org/www-project-juice-shop/](https://owasp.org/www-project-juice-shop/)  
