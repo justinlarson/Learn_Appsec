@@ -36,13 +36,8 @@ This is a self-paced curriculum for learning application security, focusing on p
   - **Description**: A deliberately insecure web app for learning secure coding and pentesting. Includes challenges tied to the OWASP Top 10. Install it locally or use the public instance to practice finding and fixing vulnerabilities.  
   - **Suggested Task**: Install Juice Shop and complete 5 challenges from the scoreboard.
 
-- **Secure Coding Dojo (Contrast Security)**  
-  - **Link**: [securecodingdojo.com](https://securecodingdojo.com)  
-  - **Description**: Free, open-source training platform with interactive labs on secure coding practices in languages like Java, Python, and Node.js. Focuses on fixing vulnerabilities like XSS and injection flaws.  
-  - **Suggested Task**: Complete the "Basic Training" module.
-
 - **Microsoft Learn - Guide to Secure .NET Development with OWASP Top 10**  
-  - **Link**: [learn.microsoft.com/en-us/training/paths/secure-dotnet-development-owasp-top-10/](https://learn.microsoft.com/en-us/training/paths/secure-dotnet-development-owasp-top-10/)  
+  - **Link**: [https://learn.microsoft.com/en-us/training/modules/owasp-top-10-for-dotnet-developers/](https://learn.microsoft.com/en-us/training/modules/owasp-top-10-for-dotnet-developers/)  
   - **Description**: Free course on secure coding in .NET, aligned with OWASP Top 10. Beginner-friendly with practical examples on input validation and more.  
   - **Suggested Task**: Finish the introductory modules and write a short summary.
 
@@ -59,57 +54,67 @@ This is a self-paced curriculum for learning application security, focusing on p
   - **Suggested Task**: Complete the "Introduction to GitHub" course and create a small repo to track your progress in this curriculum.
 
 ## Books
-
 ### Penetration Testing
-- **The Web Application Hacker’s Handbook (2nd Edition)**  
+
+- ** Black Hat Python
+  - [https://a.co/d/gFDme9C](https://a.co/d/gFDme9C) 
+  - **Authors**: Justin Seitz, Tim Arnold
+  - **Description**: When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. In this second edition of the bestselling Black Hat Python, you’ll explore the darker side of Python’s capabilities: everything from writing network sniffers, stealing email credentials, and bruteforcing directories to crafting mutation fuzzers, investigating virtual machines, and creating stealthy trojans.
+  - **Suggested Task**: Read and Build along
+
+- **The Web Application Hacker’s Handbook (2nd Edition)**
+- [https://a.co/d/gW91Mq1](https://a.co/d/gW91Mq1)  
   - **Authors**: Dafydd Stuttard, Marcus Pinto  
   - **Description**: A comprehensive guide to web app pentesting by the creators of Burp Suite. Covers techniques, tools, and vulnerabilities in detail. Available in print or e-book.  
   - **Suggested Task**: Read Chapters 1-4 and experiment with Burp Suite alongside it.
+  - Might be a little outdated since it was published in 2011
 
-- **Web Hacking 101**  
+- **Web Hacking 101**
+- [https://leanpub.com/web-hacking-101](https://leanpub.com/web-hacking-101  
   - **Authors**: Peter Yaworski  
   - **Description**: A beginner-friendly book on web pentesting and bug bounty hunting. Explains real-world vulnerabilities with examples. Free online version available via Leanpub (pay-what-you-want).  
   - **Suggested Task**: Read the free version and replicate one exploit locally.
 
 ### Secure Coding
-- **Secure Coding in C and C++ (2nd Edition)**  
+- **Secure Coding in C and C++ (2nd Edition)**
+- [https://a.co/d/94j1jpt](https://a.co/d/94j1jpt) 
   - **Author**: Robert C. Seacord  
   - **Description**: A deep dive into writing secure code in C/C++, focusing on common vulnerabilities and mitigation techniques. Great for understanding low-level security concepts.  
   - **Suggested Task**: Study Chapter 2 (Strings) and write a secure string-handling function.
 
-- **The Tangled Web: A Guide to Securing Modern Web Applications**  
+- **The Tangled Web: A Guide to Securing Modern Web Applications**
+- [https://a.co/d/fyTXOCb](https://a.co/d/fyTXOCb)
   - **Author**: Michal Zalewski  
   - **Description**: Explores the complexities of web security and how to secure applications against modern threats. Slightly dated (2011) but still foundational.  
   - **Suggested Task**: Read Part I and summarize key takeaways.
 
 ## Additional Resources
 
-- **OWASP Top 10 (2021)**  
-  - **Link**: [owasp.org/Top10/](https://owasp.org/Top10/)  
-  - **Description**: The definitive list of critical web app security risks. Use this as a reference for both pentesting and secure coding. Updated in 2021 with detailed explanations and mitigations.  
-  - **Suggested Task**: Pick one vulnerability (e.g., Broken Access Control) and research a real-world example.
+- **OWASP Testing Guide)**  
+  - **Link**: [[owasp.org/Top10/](https://owasp.org/www-project-web-security-testing-guide/latest/)](https://owasp.org/www-project-web-security-testing-guide/latest/)  
+  - **Description**: TThe WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world  
+  - **Suggested Task**: Use the testing guide while testing vulnerable application like Juice Shop
 
 - **OWASP Secure Coding Practices Quick Reference Guide**  
-  - **Link**: [owasp.org/www-project-secure-coding-practices-quick-reference-guide/](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)  
+  - **Link**: [https://owasp.org/www-project-developer-guide/release/](https://owasp.org/www-project-developer-guide/release/)  
   - **Description**: A concise, free checklist of secure coding best practices. Perfect for quick reference during development.  
   - **Suggested Task**: Apply 3 practices to a small coding project.
 
 - **Vulnerable Web Apps Directory**  
-  - **Link**: [owasp.org/www-community/Vulnerable_Web_Applications_Directory/](https://owasp.org/www-community/Vulnerable_Web_Applications_Directory/)  
+  - **Link**: [https://owasp.org/www-project-vulnerable-web-applications-directory/](https://owasp.org/www-project-vulnerable-web-applications-directory/)  
   - **Description**: A list of intentionally vulnerable apps (e.g., DVWA, WebGoat) for practicing pentesting and secure coding fixes.  
-  - **Suggested Task**: Install Damn Vulnerable Web App (DVWA) and complete its tutorials.
+  - **Suggested Task**: Install a vulnerable application or use an online version and use the OWASP testing guide to test the application
 
-- **Bugcrowd University**  
-  - **Link**: [bugcrowd.com/hackers/bugcrowd-university/](https://bugcrowd.com/hackers/bugcrowd-university/)  
-  - **Description**: Free training on web security and bug hunting. Includes videos, slides, and labs on vulnerabilities like XSS and CSRF.  
-  - **Suggested Task**: Watch the "Web Hacking 101" video series.
+- **Bug Hunting Methodology**  
+  - **Link**: [https://github.com/jhaddix/tbhm](https://github.com/jhaddix/tbhm)  
+  - **Description**: How to find bugs and get paid.  
+  - **Suggested Task**: Walk through Jason's course 
 
 ## Tips for Success
-- **Start Simple**: Focus on free resources first (Burp Suite Academy, OWASP Juice Shop, TryHackMe) before investing in paid content.
+- **Start Simple**: Focus on these resources first (Burp Suite Academy, OWASP Top 10, Black Hat Python).
 - **Hands-On Practice**: Set up a local lab (e.g., using Docker or VirtualBox) to test vulnerabilities safely.
 - **Learn Python Early**: Python will help you automate tasks and write custom security tools—start with Codecademy’s course.
 - **Master Git**: Use the GitHub Learning Lab to get comfortable with version control, then track all your work in this repo.
 - **Document Progress**: Log what you’ve learned, including write-ups of labs, book chapters, or Python scripts.
-- **Ask Questions**: If stuck, search X posts or web forums for insights—I can help with that if needed!
 
 Happy learning, and welcome to the world of application security!
