@@ -5,7 +5,7 @@ This is a self-paced curriculum for learning application security, focusing on p
 ## Online Tutorials & Courses
 
 ### Penetration Testing Focus
-- **Burp Suite Academy (Web Security Academy)**  
+  - **Burp Suite Academy (Web Security Academy)**  
   - **Link**: [portswigger.net/web-security](https://portswigger.net/web-security)  
   - **Description**: Free, interactive training from PortSwigger, the creators of Burp Suite. Covers web application vulnerabilities with hands-on labs (190+ labs as of 2025). Perfect for learning pentesting techniques and using Burp Suite Community Edition (free version). Start with the basics and progress to advanced topics like XSS, SQL injection, and SSRF.  
   - **Suggested Task**: Complete the "Apprentice" level labs first, then move to "Practitioner" labs.
@@ -56,7 +56,7 @@ This is a self-paced curriculum for learning application security, focusing on p
 ## Books
 ### Penetration Testing
 
-- ** Black Hat Python
+- **Black Hat Python**
   - [https://a.co/d/gFDme9C](https://a.co/d/gFDme9C) 
   - **Authors**: Justin Seitz, Tim Arnold
   - **Description**: When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. In this second edition of the bestselling Black Hat Python, you’ll explore the darker side of Python’s capabilities: everything from writing network sniffers, stealing email credentials, and bruteforcing directories to crafting mutation fuzzers, investigating virtual machines, and creating stealthy trojans.
@@ -70,20 +70,20 @@ This is a self-paced curriculum for learning application security, focusing on p
   - Might be a little outdated since it was published in 2011
 
 - **Web Hacking 101**
-- [https://leanpub.com/web-hacking-101](https://leanpub.com/web-hacking-101  
+  - [https://leanpub.com/web-hacking-101](https://leanpub.com/web-hacking-101  
   - **Authors**: Peter Yaworski  
   - **Description**: A beginner-friendly book on web pentesting and bug bounty hunting. Explains real-world vulnerabilities with examples. Free online version available via Leanpub (pay-what-you-want).  
   - **Suggested Task**: Read the free version and replicate one exploit locally.
 
 ### Secure Coding
 - **Secure Coding in C and C++ (2nd Edition)**
-- [https://a.co/d/94j1jpt](https://a.co/d/94j1jpt) 
+  - [https://a.co/d/94j1jpt](https://a.co/d/94j1jpt) 
   - **Author**: Robert C. Seacord  
   - **Description**: A deep dive into writing secure code in C/C++, focusing on common vulnerabilities and mitigation techniques. Great for understanding low-level security concepts.  
   - **Suggested Task**: Study Chapter 2 (Strings) and write a secure string-handling function.
 
 - **The Tangled Web: A Guide to Securing Modern Web Applications**
-- [https://a.co/d/fyTXOCb](https://a.co/d/fyTXOCb)
+  - [https://a.co/d/fyTXOCb](https://a.co/d/fyTXOCb)
   - **Author**: Michal Zalewski  
   - **Description**: Explores the complexities of web security and how to secure applications against modern threats. Slightly dated (2011) but still foundational.  
   - **Suggested Task**: Read Part I and summarize key takeaways.
