@@ -41,13 +41,11 @@ This is a self-paced curriculum for learning application security, focusing on p
   - **Description**: Free course on secure coding in .NET, aligned with OWASP Top 10. Beginner-friendly with practical examples on input validation and more.  
   - **Suggested Task**: Finish the introductory modules and write a short summary.
 
-### Python for Security
 - **Learn Python - Codecademy**  
   - **Link**: [codecademy.com/learn/learn-python-3](https://www.codecademy.com/learn/learn-python-3)  
   - **Description**: A free, interactive Python 3 course tailored for beginners. Covers basics like variables, loops, and functions, with optional premium content. Python is widely used in security for scripting pentesting tools and automating tasks (e.g., with Burp Suite).  
   - **Suggested Task**: Complete the free "Python 3" course and write a simple script to parse a text file (e.g., a log file).
 
-### Git and GitHub Basics
 - **GitHub Learning Lab - Introduction to GitHub**  
   - **Link**: [skills.github.com](https://skills.github.com)  
   - **Description**: A free, interactive tutorial by GitHub that teaches Git basics (commit, push, pull) and GitHub workflows (repos, pull requests). Perfect for beginners to learn version control hands-on within a GitHub environment.  
@@ -63,7 +61,7 @@ This is a self-paced curriculum for learning application security, focusing on p
   - **Suggested Task**: Read and Build along
 
 - **The Web Application Hacker’s Handbook (2nd Edition)**
-- [https://a.co/d/gW91Mq1](https://a.co/d/gW91Mq1)  
+  - [https://a.co/d/gW91Mq1](https://a.co/d/gW91Mq1)  
   - **Authors**: Dafydd Stuttard, Marcus Pinto  
   - **Description**: A comprehensive guide to web app pentesting by the creators of Burp Suite. Covers techniques, tools, and vulnerabilities in detail. Available in print or e-book.  
   - **Suggested Task**: Read Chapters 1-4 and experiment with Burp Suite alongside it.
@@ -88,7 +86,7 @@ This is a self-paced curriculum for learning application security, focusing on p
   - **Description**: Explores the complexities of web security and how to secure applications against modern threats. Slightly dated (2011) but still foundational.  
   - **Suggested Task**: Read Part I and summarize key takeaways.
 
-## Additional Resources
+### Additional Resources
 
 - **OWASP Testing Guide)**  
   - **Link**: [[owasp.org/Top10/](https://owasp.org/www-project-web-security-testing-guide/latest/)](https://owasp.org/www-project-web-security-testing-guide/latest/)  
@@ -110,7 +108,7 @@ This is a self-paced curriculum for learning application security, focusing on p
   - **Description**: How to find bugs and get paid.  
   - **Suggested Task**: Walk through Jason's course 
 
-## Tips for Success
+### Tips for Success
 - **Start Simple**: Focus on these resources first (Burp Suite Academy, OWASP Top 10, Black Hat Python).
 - **Hands-On Practice**: Set up a local lab (e.g., using Docker or VirtualBox) to test vulnerabilities safely.
 - **Learn Python Early**: Python will help you automate tasks and write custom security tools—start with Codecademy’s course.
