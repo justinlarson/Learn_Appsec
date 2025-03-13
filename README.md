@@ -5,7 +5,7 @@ This is a self-paced curriculum for learning application security, focusing on p
 ## Online Tutorials & Courses
 
 ### Penetration Testing Focus
-  - **Burp Suite Academy (Web Security Academy)**  
+- **Burp Suite Academy (Web Security Academy)**  
   - **Link**: [portswigger.net/web-security](https://portswigger.net/web-security)  
   - **Description**: Free, interactive training from PortSwigger, the creators of Burp Suite. Covers web application vulnerabilities with hands-on labs (190+ labs as of 2025). Perfect for learning pentesting techniques and using Burp Suite Community Edition (free version). Start with the basics and progress to advanced topics like XSS, SQL injection, and SSRF.  
   - **Suggested Task**: Complete the "Apprentice" level labs first, then move to "Practitioner" labs.
@@ -109,7 +109,7 @@ This is a self-paced curriculum for learning application security, focusing on p
   - **Suggested Task**: Walk through Jason's course 
 
 ### Tips for Success
-- **Start Simple**: Focus on these resources first (Burp Suite Academy, OWASP Top 10, Black Hat Python).
+- **Start Simple**: Focus on these resources first (Burp Suite Academy, OWASP Top 10, Learn Python Codecademy or Black Hat Python).
 - **Hands-On Practice**: Set up a local lab (e.g., using Docker or VirtualBox) to test vulnerabilities safely.
 - **Learn Python Early**: Python will help you automate tasks and write custom security tools—start with Codecademy’s course.
 - **Master Git**: Use the GitHub Learning Lab to get comfortable with version control, then track all your work in this repo.
