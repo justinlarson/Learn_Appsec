@@ -68,7 +68,7 @@ This is a self-paced curriculum for learning application security, focusing on p
   - Might be a little outdated since it was published in 2011
 
 - **Web Hacking 101**
-  - [https://leanpub.com/web-hacking-101](https://leanpub.com/web-hacking-101  
+  - [https://leanpub.com/web-hacking-101](https://leanpub.com/web-hacking-101)
   - **Authors**: Peter Yaworski  
   - **Description**: A beginner-friendly book on web pentesting and bug bounty hunting. Explains real-world vulnerabilities with examples. Free online version available via Leanpub (pay-what-you-want).  
   - **Suggested Task**: Read the free version and replicate one exploit locally.
@@ -89,7 +89,7 @@ This is a self-paced curriculum for learning application security, focusing on p
 ### Additional Resources
 
 - **OWASP Testing Guide)**  
-  - **Link**: [[owasp.org/Top10/](https://owasp.org/www-project-web-security-testing-guide/latest/)](https://owasp.org/www-project-web-security-testing-guide/latest/)  
+  - **Link**: [https://owasp.org/www-project-web-security-testing-guide/latest/](https://owasp.org/www-project-web-security-testing-guide/latest/)  
   - **Description**: TThe WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of cybersecurity professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world  
   - **Suggested Task**: Use the testing guide while testing vulnerable application like Juice Shop
 
